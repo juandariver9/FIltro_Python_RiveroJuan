@@ -1,0 +1,33 @@
+{
+  "Datos": {
+    "Clientes": [
+      {
+        "Identificacion": 1230615,
+        "Nombre": "Danna",
+        "Apellido1": "Florez",
+        "Apellido2": "xd",
+        "Direccion": "Calle 465456",
+        "Telefono": 132456,
+        "Categoria": "Nuevo Cliente",
+        "Servicios": ""
+      },
+      {
+        "Identificacion": 1011,
+        "Nombre": "Juanda",
+        "Apellido1": "Romero",
+        "Apellido2": "Rivero",
+        "Direccion": "Calle 2",
+        "Telefono": 978,
+        "Categoria": "Cliente Regular",
+        "Servicios": ""
+      }
+    ],
+    "Servicios": [
+      {
+        "Servicio": "Fibra optica",
+        "Precio": 10.0,
+        "Caracteristicas": "Bueno, Bonito, Barato"
+      }
+    ]
+  }
+}
